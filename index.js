@@ -19,7 +19,7 @@ function inc(n){
 function dec(n){
   return n -= 1
 }
-function makeInt(n){
+function makeInt(n,0){
   parseInt('n', 10)
   return n
 }
