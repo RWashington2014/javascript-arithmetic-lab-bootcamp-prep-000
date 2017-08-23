@@ -1,7 +1,6 @@
 //Arithmetic functions
 
 function add(a,b){
-    a + b;
-    return add()
+  return  a + b
+    //return add()
 }
-
